@@ -1,37 +1,3 @@
-# import pyautogui
-# from tkinter import *
-
-# def take_ss():
-#     add=entry.get()
-#     path=add+"\\ss1.png"
-#     ss=pyautogui.screenshot()
-#     print(path)
-
-#     ss.save(r"C:\Users\bansa\Desktop\python_projects\ss1.png")
-
-
-
-
-# win=Tk()
-# win.title("TakeScreenshot")
-# win.geometry("400x300")
-# win.config(bg="orange")
-# win.resizable(False,False)
-
-# entry=Entry(win, font=('TIME NEW ROMAN',15))
-# entry.place(x=20,height=50,width=350,y=50)
-
-# button=Button(win, text="Done", font=('TIME NEW ROMAN',25),bg="red")
-# button.place(x=150,y=130,h=60,width=100)
-
-
-
-
-
-# win.mainloop()
-
-
-
 import os
 import pyautogui
 import tkinter as tk
